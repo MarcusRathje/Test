@@ -2,4 +2,4 @@
 
 Dies ist eine tolle README, ja!... oder auch nicht
 
-Diese Zeile wurde im Feature-Branch hinzugefügt! LOL! Noob!
+Diese Zeile wurde im Feature-Branch hinzugefügt! Selber N00b

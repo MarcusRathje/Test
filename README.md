@@ -1,5 +1,5 @@
 # Test
 
-Dies ist eine tolle README, ja!... oder auch nicht!
+Dies ist eine tolle README, ja!
 
-Diese Zeile wurde im Feature-Branch hinzugefügt! LOL! Noob!
+Diese Zeile wurde im Feature-Branch hinzugefügt! Selber N00b
